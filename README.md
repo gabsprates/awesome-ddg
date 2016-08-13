@@ -9,21 +9,81 @@ Best Hacks for DuckDuckGo Search :mag_right:
 
 ### For your understanding:
 
-The bolded text is our command to DDG, the italic text is your query, like this:
+The hacks are shown like this:
 
-> *Rio de Janeiro* **weather**
+**Here is the description of hack**
+```
+here is how to use the hack [with options]
+```
+> And this is a example
 
 
 So let's go there! :runner:
 
 ## Hacks
-For what? | Our Hack
-:----------|:---------
-| See weather of a locality | *Rio de Janeiro* **weather** |
-| How it costs in UK or in Brazil? | *12* **USD to EUR** or *12* **USD to BRL**<br>see more there: [http://www.xe.com/currency/](http://www.xe.com/currency/) |
-| You need a timer? | **timer** *10 minutes* |
-| Where is Barcelona city? | *Barcelona* **maps** |
-| Whats the costs Narnia Chronicles in Amazon? | **!amazon** *Narnia Chronicles*<br> It's a **!bang**, see more there: [https://duckduckgo.com/bang](https://duckduckgo.com/bang) |
-| Calculate the MD5 digest of a string. | **md5** *your string* |
-| Need a password with 8 chars? | **password** *8*<br>it can have a optional value to a stronger password with this keywords:<br>`strong`, `hard`, `easy`, `weak`, `normal`, `avg`:<br>**password** *12* *hard* |
-| Forget how do anything in Vim Editor? | **vim cheat sheet** |
+
+**!bang**
+```
+![bang] [your search]
+```
+> [!amazon Narnia Chronicles](https://duckduckgo.com/?q=!amazon+Narnia+Chronicles)
+
+It's a **!bang**, see more there: [https://duckduckgo.com/bang](https://duckduckgo.com/bang)
+
+---
+
+**Displays the current weather and a 7-day forecast for a local city**
+```
+[city] weather
+```
+>  [Rio de Janeiro weather](https://duckduckgo.com/?q=Rio+de+Janeiro+weather)
+
+---
+
+**Currency Convertor**
+```
+[value] [currency] to [another currency]
+```
+>  [16 USD to EUR](https://duckduckgo.com/?q=16+USD+to+EUR)
+
+See more currency options there: [http://www.xe.com/currency/](http://www.xe.com/currency/)
+
+---
+
+**Displays a countdown timer**
+```
+timer [time]
+```
+> [timer 10 min](https://duckduckgo.com/?q=timer+10+min)
+
+---
+
+**Maps for a local**
+```
+[city name] maps
+```
+> [San Diego maps](https://duckduckgo.com/?q=San+Diego+maps)
+
+---
+
+**Calculate the MD5 digest of a string**
+```
+md5 [your string]
+```
+> [md5 GitHub](https://duckduckgo.com/?q=md5+GitHub)
+
+---
+
+**Generates a random password**
+```
+password [number of characters] [strong of pass: strong|hard|easy|weak|normal|avg]
+```
+> [password 12 hard](https://duckduckgo.com/?q=password+12+hard)
+
+---
+
+**Common keyboard shortcuts and commands for the Vim text editor**
+```
+vim cheat sheet
+```
+> [vim cheat sheet](https://duckduckgo.com/?q=vim+cheat+sheet)
