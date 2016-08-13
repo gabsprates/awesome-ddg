@@ -87,3 +87,11 @@ password [number of characters] [strong of pass: strong|hard|easy|weak|normal|av
 vim cheat sheet
 ```
 > [vim cheat sheet](https://duckduckgo.com/?q=vim+cheat+sheet)
+
+---
+
+**A cheat sheet of core JavaScript methods**
+```
+javascript syntax
+```
+> [javascript syntax](https://duckduckgo.com/?q=javascript+syntax)
