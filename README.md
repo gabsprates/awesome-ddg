@@ -1,4 +1,4 @@
-# DuckDuckGo Hacks :sunglasses:
+# Awesome DuckDuckGo Hacks :sunglasses:
 
 Best Hacks for DuckDuckGo Search :mag_right:
 
