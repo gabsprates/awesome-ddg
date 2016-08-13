@@ -24,3 +24,6 @@ For what? | Our Hack
 | You need a timer? | **timer** *10 minutes* |
 | Where is Barcelona city? | *Barcelona* **maps** |
 | Whats the costs Narnia Chronicles in Amazon? | **!amazon** *Narnia Chronicles*<br> It's a **!bang**, see more there: [https://duckduckgo.com/bang](https://duckduckgo.com/bang) |
+| Calculate the MD5 digest of a string. | **md5** *your string* |
+| Need a password with 8 chars? | **password** *8*<br>it can have a optional value to a stronger password with this keywords:<br>`strong`, `hard`, `easy`, `weak`, `normal`, `avg`:<br>**password** *12* *hard* |
+| Forget how do anything in Vim Editor? | **vim cheat sheet** |
