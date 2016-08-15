@@ -95,3 +95,11 @@ vim cheat sheet
 javascript syntax
 ```
 > [javascript syntax](https://duckduckgo.com/?q=javascript+syntax)
+
+---
+
+**A cheat sheet for Git**
+```
+git cheat sheet
+```
+> [git cheat sheet](https://duckduckgo.com/?q=git+cheat+sheet)
