@@ -111,3 +111,11 @@ git cheat sheet
 docker cheat sheet
 ```
 > [docker cheat sheet](https://duckduckgo.com/?q=docker+cheat+sheet)
+
+---
+
+**Shows a user's latest tweet.**
+```
+@[username]
+```
+> [@gabsprates](https://duckduckgo.com/?q=%40gabsprates)
