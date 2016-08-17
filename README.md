@@ -119,3 +119,11 @@ docker cheat sheet
 @[username]
 ```
 > [@gabsprates](https://duckduckgo.com/?q=%40gabsprates)
+
+---
+
+**Shorten URLs using the is.gd API**
+```
+shorten [url]
+```
+> [shorten gabsprates.com](https://duckduckgo.com/?q=shorten+gabsprates.com)
