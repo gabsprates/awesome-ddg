@@ -127,3 +127,11 @@ docker cheat sheet
 shorten [url]
 ```
 > [shorten gabsprates.com](https://duckduckgo.com/?q=shorten+gabsprates.com)
+
+---
+
+**Provides ASCII variations of the shruggie ( i.e. ¯\_(ツ)_/¯ ) that can be copy/pasted.**
+```
+shruggie
+```
+> [shruggie](https://duckduckgo.com/?q=shruggie)
