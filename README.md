@@ -130,7 +130,7 @@ shorten [url]
 
 ---
 
-**Provides ASCII variations of the shruggie ( i.e. ¯\_(ツ)_/¯ ) that can be copy/pasted.**
+**Provides ASCII variations of the shruggie ( i.e. ¯\\_(ツ)_/¯ ) that can be copy/pasted.**
 ```
 shruggie
 ```
