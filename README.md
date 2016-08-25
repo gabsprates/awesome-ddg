@@ -135,3 +135,11 @@ shorten [url]
 shruggie
 ```
 > [shruggie](https://duckduckgo.com/?q=shruggie)
+
+---
+
+**A tool to help you select and preview colors.**
+```
+color picker
+```
+> [color picker](https://duckduckgo.com/?q=color+picker)
