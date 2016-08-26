@@ -143,3 +143,11 @@ shruggie
 color picker
 ```
 > [color picker](https://duckduckgo.com/?q=color+picker)
+
+---
+
+**Calculate the number of days between two dates**
+```
+days between [date: today|(mm/dd/yyyy)] [date: today|(mm/dd/yyyy)]
+```
+> [days between 08/25/1991 08/25/2016](https://duckduckgo.com/?q=days+between+08/25/1991+08/25/2016)
