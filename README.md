@@ -151,3 +151,11 @@ color picker
 days between [date: today|(mm/dd/yyyy)] [date: today|(mm/dd/yyyy)]
 ```
 > [days between 08/25/1991 08/25/2016](https://duckduckgo.com/?q=days+between+08/25/1991+08/25/2016)
+
+---
+
+**Generate Lorem Ipsum text**
+```
+[variant] lorem ipsum
+```
+> [3 paragraphs of lorem ipsum](https://duckduckgo.com/?q=3+paragraphs+of+lorem+ipsum)
