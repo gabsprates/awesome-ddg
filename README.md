@@ -159,3 +159,11 @@ days between [date: today|(mm/dd/yyyy)] [date: today|(mm/dd/yyyy)]
 [variant] lorem ipsum
 ```
 > [3 paragraphs of lorem ipsum](https://duckduckgo.com/?q=3+paragraphs+of+lorem+ipsum)
+
+---
+
+**Shows the shortcut keys to work in Gmail, google mailing client.**
+```
+gmail cheat sheet
+```
+> [gmail cheat sheet](https://duckduckgo.com/?q=gmail+cheat+sheet)
