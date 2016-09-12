@@ -167,3 +167,11 @@ days between [date: today|(mm/dd/yyyy)] [date: today|(mm/dd/yyyy)]
 gmail cheat sheet
 ```
 > [gmail cheat sheet](https://duckduckgo.com/?q=gmail+cheat+sheet)
+
+---
+
+**Provides the local time of country, city or state searched**
+```
+time in [local]
+```
+> [time in barcelona](https://duckduckgo.com/?q=time+in+barcelona)
